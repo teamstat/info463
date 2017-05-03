@@ -22,3 +22,15 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+div.rectangle {
+width:272px;
+height:340px;
+border-style: solid;
+border-width:1px ;
+border-color: #000;
+margin-top: 100px;
+margin-left: 50%;
+vertical-align: middle;
+}
+
