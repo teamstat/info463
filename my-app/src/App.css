@@ -27,10 +27,11 @@ div.rectangle {
 width:272px;
 height:340px;
 border-style: solid;
-border-width:1px ;
+border-width:3px ;
 border-color: #000;
 margin-top: 100px;
 margin-left: 50%;
 vertical-align: middle;
+border-radius: 30px;
 }
 
