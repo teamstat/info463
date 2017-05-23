@@ -113,3 +113,9 @@ div.u-z {
   bottom: 38%;
   right: 19%;
 }
+
+div.space {
+  position: absolute;
+  top: 42%;
+  left: 73%;
+}
