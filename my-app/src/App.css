@@ -1,6 +1,8 @@
 .App {
   text-align: center;
 }
+
+/*watch screen*/
 div.rectangle {
 width:272px;
 height:340px;
@@ -77,4 +79,37 @@ border-radius: 30px;
   50% {
     color: black;
   }
+}
+
+
+
+/*Homepage Keyboard*/
+
+div.a-f {
+    -ms-transform: rotate(270deg); /* IE 9 */
+    -webkit-transform: rotate(270eg); /* Chrome, Safari, Opera */
+    transform: rotate(270deg);
+    vertical-align: middle;
+    position: absolute;
+    left: 55%;
+    bottom: 55%;
+}
+
+div.n-t {
+    -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90eg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+    position: absolute;
+    bottom: 55%;
+    left: 93%;
+}
+
+div.g-m {
+  padding-top: 10px;
+}
+
+div.u-z {
+  position: absolute;
+  bottom: 38%;
+  right: 19%;
 }
