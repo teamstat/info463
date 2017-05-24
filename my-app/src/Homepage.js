@@ -7,9 +7,11 @@ class Homepage extends Component {
             <div className="homepage">
 
                 <div className="g-m">G-M</div>
-                <div className="a-f">A-F</div>
-                <div className="space">space</div>
-                <div className="n-t">N-T</div>
+                <div className="middle">
+                    <span className="a-f">A-F</span>
+                    <span className="space">space</span>
+                    <span className="n-t">N-T</span>
+                </div>
                 <div className="u-z">U-Z</div>
 
 

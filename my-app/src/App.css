@@ -85,37 +85,35 @@ border-radius: 30px;
 
 /*Homepage Keyboard*/
 
-div.a-f {
+.a-f {
     -ms-transform: rotate(270deg); /* IE 9 */
     -webkit-transform: rotate(270eg); /* Chrome, Safari, Opera */
     transform: rotate(270deg);
-    vertical-align: middle;
-    position: absolute;
-    left: 55%;
-    bottom: 55%;
+
 }
 
-div.n-t {
+.n-t {
     -ms-transform: rotate(90deg); /* IE 9 */
     -webkit-transform: rotate(90eg); /* Chrome, Safari, Opera */
     transform: rotate(90deg);
-    position: absolute;
-    bottom: 55%;
-    left: 93%;
 }
 
-div.g-m {
+.g-m {
   padding-top: 10px;
+
+
 }
 
-div.u-z {
-  position: absolute;
-  bottom: 38%;
-  right: 19%;
+.u-z {
+  padding-top: 100px;
 }
 
-div.space {
-  position: absolute;
-  top: 42%;
-  left: 73%;
+.space {
+  vertical-align: middle;
+  padding-right: 60px;
+  padding-left: 60px;
+}
+
+.middle{
+  padding-top: 100px;
 }
